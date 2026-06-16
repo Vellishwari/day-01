@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internship</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Day 1 - Full Stack Development Internship</h1>
+    <h2>This is my first day class</h2>
+    <pre>Hello and welcome to my Internship 
+         Day 1 
+    </pre>
+    <p>Today was the first day of my Full Stack Development Internship <br>
+        In this session, I was introduced to the basics of web development
+        and the structure of a website. I learned about HTML and some of
+        its fundamental tags such as <br>
+</p>
+<h2>Company profil</h2> <br>
+   <a href="https://livewiresalem.com/">visit company profil</a> <br>
+   <img src="https://summerapply.com/media/5552/girls_who_code_6.jpg?anchor=center&mode=crop&height=595&upscale=false&rnd=133060240640000000" alt="Internship" style="width: 200px;height: 200px;"> <br>
+ <h2>Our Linkdin Profile</h2> <br>
+<a href="https://www.linkedin.com/in/vellishwari-m-a0b52b2a9/?skipRedirect=true">visit my linkedin profile</a>
+
+</body>
+</html>
